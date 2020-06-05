@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="213eeb9f-b31f-48eb-9028-061003a787f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/MessengerServerEndPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/beans/WebSocketMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/webapp/lab4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/ChatServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/CheckUserNameServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/GetNumberSystemServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/webapp/content.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/webapp/lab1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/webapp/lab2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/webapp/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/webapp/views/css/lab1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/webapp/views/css/lab2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/webapp/views/css/libs/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/webapp/views/js/lab1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/webapp/views/js/lab2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/webapp/views/js/libs/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/webapp/views/js/libs/jquery-3.4.1.min.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cK00eMS2oJovFiVr5MYUpLgDOp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="213eeb9f-b31f-48eb-9028-061003a787f1" name="Default Changelist" comment="" />
+      <created>1590261755553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590261755553</updated>
+      <workItem from="1590261757233" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1590261802075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590261802075" />
+  </component>
+</project>

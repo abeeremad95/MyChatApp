@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="483ef2e9-b9e8-44f6-859a-51b4c3a72e18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/Register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/DownloadServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/LoginServlet$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/MessengerServerEndPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/PasswordAuthentication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/beans/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/beans/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/beans/WebSocketMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/lib/gson-2.8.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/lab4.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/views/js/lab4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DownloadServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/LoginServlet$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MessengerServerEndPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/PasswordAuthentication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/WebSocketMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestApp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestApp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/TestApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestApp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\pc\IdeaProjects\AJAXlab1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1aAEeid0C8pBXpszPNw3sgKXigQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Abeer Emad\Desktop\AJAXlab1\AJAXlab1\src\main\webapp" />
+      <recent name="C:\Users\pc\IdeaProjects\AJAXlab1\src\main\webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Abeer Emad\Desktop\AJAXlab1\AJAXlab1\src\test" />
+      <recent name="C:\Users\Abeer Emad\Desktop\AJAXlab1\AJAXlab1\src\main\webapp" />
+      <recent name="C:\Users\pc\IdeaProjects\AJAXlab1\src\main\webapp\views\css\libs" />
+      <recent name="C:\Users\pc\IdeaProjects\AJAXlab1\src\main\webapp" />
+      <recent name="C:\Users\pc\IdeaProjects\AJAXlab1\src\main\webapp\views\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestApp">
+    <configuration name="TestApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJAXlab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestApp" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp.TestPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJAXlab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestApp" />
+      <option name="METHOD_NAME" value="TestPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp.TestUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJAXlab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestApp" />
+      <option name="METHOD_NAME" value="TestUserName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp.testDownloadServlet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJAXlab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestApp" />
+      <option name="METHOD_NAME" value="testDownloadServlet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp.testServlet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJAXlab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestApp" />
+      <option name="METHOD_NAME" value="testServlet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_AJAXlab1" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55323" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55324" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestApp" />
+        <item itemvalue="JUnit.TestApp.testDownloadServlet" />
+        <item itemvalue="JUnit.TestApp.TestUserName" />
+        <item itemvalue="JUnit.TestApp.testServlet" />
+        <item itemvalue="JUnit.TestApp.TestPassword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="483ef2e9-b9e8-44f6-859a-51b4c3a72e18" name="Default Changelist" comment="" />
+      <created>1586170094897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586170094897</updated>
+      <workItem from="1586170099616" duration="1003000" />
+      <workItem from="1586176828436" duration="13753000" />
+      <workItem from="1586256468069" duration="5108000" />
+      <workItem from="1586327420983" duration="2102000" />
+      <workItem from="1586335511244" duration="1192000" />
+      <workItem from="1586346310229" duration="7519000" />
+      <workItem from="1586363628304" duration="135000" />
+      <workItem from="1586436032132" duration="326000" />
+      <workItem from="1590261806314" duration="4991000" />
+      <workItem from="1590349731724" duration="7569000" />
+      <workItem from="1590413035015" duration="24660000" />
+      <workItem from="1590593347173" duration="20400000" />
+      <workItem from="1590683534861" duration="1219000" />
+      <workItem from="1590848637271" duration="6251000" />
+      <workItem from="1590914827151" duration="12284000" />
+      <workItem from="1591288500023" duration="18140000" />
+      <workItem from="1591358746827" duration="33895000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1586193103573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586193103573</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding Pom File">
+      <created>1586193268807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586193268807</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finish UI">
+      <created>1591361355536</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591361355536</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding new features">
+      <created>1591394313571</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591394313571</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding new features">
+      <created>1591396107140</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591396107140</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adding new features">
+      <created>1591396577979</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591396577979</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Adding Pom File" />
+    <MESSAGE value="Finish UI" />
+    <MESSAGE value="adding new features" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new features" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590436506854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590436506854" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1590600192443">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590600192443" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590422865906">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590422865906" />
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1591396577048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591396577048" />
+    <state x="129" y="61" key="DiffContextDialog" timestamp="1591394387418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1591394387418" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1591398505635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591398505635" />
+    <state width="1323" height="270" key="GridCell.Tab.0.bottom" timestamp="1591396091263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="270" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591396091263" />
+    <state width="1323" height="270" key="GridCell.Tab.0.center" timestamp="1591396091263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="270" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591396091263" />
+    <state width="1323" height="270" key="GridCell.Tab.0.left" timestamp="1591396091263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="270" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591396091263" />
+    <state width="1323" height="270" key="GridCell.Tab.0.right" timestamp="1591396091263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="270" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591396091263" />
+    <state x="196" y="40" key="Maven.ArtifactSearchDialog" timestamp="1591382581972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="196" y="40" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1591382581972" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1591398431842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591398431842" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1591396598971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591396598971" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591358765550">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591358765550" />
+    <state x="487" y="54" key="svn.repositoryBrowser" timestamp="1591399118501">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="54" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1591399118501" />
+  </component>
+</project>
