@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="483ef2e9-b9e8-44f6-859a-51b4c3a72e18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/Register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/DownloadServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/LoginServlet$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/MessengerServerEndPoint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/PasswordAuthentication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/beans/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/beans/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/beans/WebSocketMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/classes/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/lib/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/download.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/lab4.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/AJAX-lab1-1.0-SNAPSHOT/views/js/lab4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DownloadServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/LoginServlet$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MessengerServerEndPoint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/PasswordAuthentication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/beans/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/beans/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/beans/WebSocketMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestApp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestApp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +258,7 @@
       <workItem from="1590848637271" duration="6251000" />
       <workItem from="1590914827151" duration="12284000" />
       <workItem from="1591288500023" duration="18140000" />
-      <workItem from="1591358746827" duration="33895000" />
+      <workItem from="1591358746827" duration="37227000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1586193103573</created>
@@ -378,26 +349,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1591394387418" />
-    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1591398505635">
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1591404226431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591398505635" />
-    <state width="1323" height="270" key="GridCell.Tab.0.bottom" timestamp="1591396091263">
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591404226431" />
+    <state width="1323" height="270" key="GridCell.Tab.0.bottom" timestamp="1591404141790">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="270" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591396091263" />
-    <state width="1323" height="270" key="GridCell.Tab.0.center" timestamp="1591396091263">
+    <state width="1323" height="270" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591404141790" />
+    <state width="1323" height="270" key="GridCell.Tab.0.center" timestamp="1591404141790">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="270" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591396091263" />
-    <state width="1323" height="270" key="GridCell.Tab.0.left" timestamp="1591396091263">
+    <state width="1323" height="270" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591404141790" />
+    <state width="1323" height="270" key="GridCell.Tab.0.left" timestamp="1591404141790">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="270" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591396091263" />
-    <state width="1323" height="270" key="GridCell.Tab.0.right" timestamp="1591396091263">
+    <state width="1323" height="270" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591404141790" />
+    <state width="1323" height="270" key="GridCell.Tab.0.right" timestamp="1591404141790">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="270" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591396091263" />
+    <state width="1323" height="270" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591404141790" />
     <state x="196" y="40" key="Maven.ArtifactSearchDialog" timestamp="1591382581972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -414,9 +385,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591358765550" />
-    <state x="487" y="54" key="svn.repositoryBrowser" timestamp="1591399118501">
+    <state x="487" y="54" key="svn.repositoryBrowser" timestamp="1591404227431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="487" y="54" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1591399118501" />
+    <state x="487" y="54" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1591404227431" />
   </component>
 </project>

@@ -1,8 +1,4 @@
 
-
-
-git add README.md
-
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;
 import java.io.*;
@@ -19,7 +15,7 @@ public  class TestApp extends Mockito {
     @Test
     public void testSocket(){
         MessengerServerEndPoint socket= new MessengerServerEndPoint();
-        //socket.onMessage();
+//        socket.onMessage(Stri);
         System.out.println("");
 
     }
